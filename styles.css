@@ -24,6 +24,10 @@ body{
     top: 50%;
     left: 50%;
     font-size: 2rem;
+    font-family: anisette-std, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
 }
 
 #slider{
@@ -32,4 +36,5 @@ body{
 
 p{
     color: white;
+    padding-top: 1rem;
 }
